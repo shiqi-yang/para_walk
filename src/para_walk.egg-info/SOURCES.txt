@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/para_walk.py
+src/para_walk.egg-info/PKG-INFO
+src/para_walk.egg-info/SOURCES.txt
+src/para_walk.egg-info/dependency_links.txt
+src/para_walk.egg-info/requires.txt
+src/para_walk.egg-info/top_level.txt
