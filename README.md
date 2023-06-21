@@ -13,7 +13,7 @@ $ pip install para_walk
 from para_walk import pwalk
 
 
-for root, directories, files in pwalk(TARGET_DIR, PARALLEL, **kargs):
-	# **kargs is kargs pass to os.walk
+for root, directories, files in pwalk(TARGET_DIR, PARALLEL, **kwargs):
+	# **kargs is kwargs pass to os.walk
 	continue
 ```
